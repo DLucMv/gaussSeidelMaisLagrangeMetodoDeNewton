@@ -1,0 +1,3 @@
+C:/Users/lucas/CLionProjects/exer_program_calc_num/cmake-build-debug/CMakeFiles/exer_program_calc_num.dir
+C:/Users/lucas/CLionProjects/exer_program_calc_num/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/CLionProjects/exer_program_calc_num/cmake-build-debug/CMakeFiles/rebuild_cache.dir
